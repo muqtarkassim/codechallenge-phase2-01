@@ -45,7 +45,7 @@ export default function App(){
             <h5>search category
             <span><CategoryList allitems={allItems} setallItems={setallItems} data={datas}/></span></h5>
         </div>
-        <ItemList allItems={allItems}/>
+        <ItemList allItems={allItems} setallItems={setallItems}/>
         <FormInfo handleSubmit={handleSubmit}/>
         </div>
     ) 

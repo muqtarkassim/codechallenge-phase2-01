@@ -97,55 +97,6 @@
       "category": "Food",
       "amount": "3000",
       "id": 14
-    },
-    {
-      "description": "cats",
-      "amount": "20,000",
-      "category": "animal",
-      "date": "01/01/2000",
-      "id": 15
-    },
-    {
-      "description": "leo",
-      "amount": "20,000",
-      "category": "animal",
-      "date": "01/01/2000",
-      "id": 16
-    },
-    {
-      "description": "panthera-pardas",
-      "amount": "70000",
-      "category": "animal",
-      "date": "01/01/2002",
-      "id": 17
-    },
-    {
-      "description": "cat",
-      "amount": "1000",
-      "category": "animal",
-      "date": "01/01/2002",
-      "id": 18
-    },
-    {
-      "description": "Avator",
-      "amount": "1000",
-      "category": "animal",
-      "date": "01/01/2000",
-      "id": 19
-    },
-    {
-      "description": "hoddie && baggy jeans",
-      "amount": "27000",
-      "category": "Fashion",
-      "date": "01/01/2023",
-      "id": 20
-    },
-    {
-      "description": "cargo-pants",
-      "amount": "3500",
-      "category": "fashion",
-      "date": "01/08/2023",
-      "id": 21
     }
   ]
 }
