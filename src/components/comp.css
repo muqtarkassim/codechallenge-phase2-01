@@ -1,0 +1,51 @@
+.formdata{
+    margin-top:60px;
+    background-color: rgb(153, 54, 54);
+    align-items: center;
+    padding: 30px 30px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form input{
+    height:40px;
+    width:350px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+button{
+    height:30px;
+    width:70px;
+    cursor: pointer;
+    background-color: rgb(118, 190, 101);
+}
+
+#date{
+    margin-left: 60px;
+}
+.searchc{
+    font-family: monospace;
+    margin: 40px;
+   display:flex;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+h5{
+    display: flex;
+    
+    justify-content: center;
+    font-size: x-large;
+}
+h5 span{
+    margin-left: 15px;
+}
+#catform input{
+    width:200px;
+    height:40px;
+    border-radius: 1px;
+}
